@@ -29,7 +29,6 @@
             "Milon\\Barcode": "src/"
         }
     },
-    "minimum-stability": "stable",
     "config": {
         "sort-packages": true
     },
